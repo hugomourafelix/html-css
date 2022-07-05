@@ -1,0 +1,68 @@
+@charset
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(202, 202, 202);
+    margin: 0px;
+}
+
+header {
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+}
+
+nav {
+    background-color: rgb(0, 81, 255)
+    ;
+    padding: 3px;
+}
+
+ h2 {
+     color: black;
+     text-align: center;
+ }
+
+  aside > p {
+      background-color: rgb(0, 81, 255);
+
+  }
+
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+    color: rgb(0, 0, 0);
+}
+
+nav > a {
+    text-decoration: none ;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-right: 35px;
+}
+
+article {
+    background-color: rgb(0, 81, 255)
+    padding 5px;
+    
+}
+
+article > aside {
+   background-color: rgb(0, 0, 0);
+   
+   color: white;
+   
+}
+ 
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+    
+
